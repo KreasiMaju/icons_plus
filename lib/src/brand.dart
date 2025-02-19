@@ -22,6 +22,11 @@ class Brands {
   ///
   /// ABC Warriors Characters
   ///
+
+  /// Brand logo for tokopedia
+  static const tokopedia =
+      "assets/images/logos/tokopedia/tokopedia.svg";
+  
   /// Brand logo for black blood
   static const black_blood =
       "assets/images/characters/abc-warriors-characters/black-blood.svg";

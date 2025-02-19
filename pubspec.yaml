@@ -83,6 +83,7 @@ flutter:
     - assets/images/logos/travel/
     - assets/images/logos/utilities/
     - assets/images/logos/video-games/
+    - assets/images/logos/tokopedia/
     # Popular SVG images
     - assets/images/popular/common-actions/
     - assets/images/popular/documents-and-folders/
